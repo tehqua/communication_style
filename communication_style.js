@@ -12,7 +12,7 @@ const CommunicationStyleSurvey = () => {
       id: 1,
       text: "Khi tham gia một ch ngồi",
       options: [
-        { text: "Ở đầu bàn", style: "Trực tiếp" },
+        { text: "Ở đầu bàn", style: "TtTTTTTTTTTTTTTTTTTTTTTTTTTTT" },
         { text: "Ở vị trí có thể quan sát được mọi người rõ nhất", style: "Nhiệt huyết" },
         { text: "Bên cạnh ai đó tôi quen", style: "Ân cần" },
         { text: "Cách n", style: "Có hệ t sadfa sdf sà sâ fhống" }
