@@ -10,12 +10,12 @@ const CommunicationStyleSurvey = () => {
   const questions = [
     {
       id: 1,
-      text: "Khi tham gia một cuộc họp, tôi thích ngồi",
+      text: "Khi tham gia một ch ngồi",
       options: [
         { text: "Ở đầu bàn", style: "Trực tiếp" },
         { text: "Ở vị trí có thể quan sát được mọi người rõ nhất", style: "Nhiệt huyết" },
         { text: "Bên cạnh ai đó tôi quen", style: "Ân cần" },
-        { text: "Cách ít nhất một chỗ so với người kế bên", style: "Có hệ thống" }
+        { text: "Cách n", style: "Có hệ t sadfa sdf sà sâ fhống" }
       ]
     },
     {
